@@ -1,10 +1,10 @@
-📄 Sign Up Form Project
+# 📄 Sign Up Form Project
 
 This is a simple and responsive Sign Up Form created using HTML and CSS. It is designed for beginners to understand form structure and styling.
 
 ---
 
-📌 Features
+## 📌 Features
 
 - Clean and user-friendly sign up form
 - Input fields for user details (Name, Email, Password, etc.)
@@ -13,29 +13,22 @@ This is a simple and responsive Sign Up Form created using HTML and CSS. It is d
 
 ---
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - HTML → Structure of the form
 - CSS → Styling and layout
 
 ---
 
-📂 Files
+### 📂 Files
 
 - "signup.html" → Contains the structure of the sign up form
 - "signup.css" → Contains all styling for the form
 
----
-
-🚀 How to Use
-
-1. Download or clone the repository
-2. Open the project folder
-3. Run "signup.html" in your browser
-4. Fill in the form
 
 ---
-💡 Learning Purpose
+
+### 💡 Learning Purpose
 
 This project helps you learn:
 
@@ -45,6 +38,6 @@ This project helps you learn:
 
 ---
 
-✨ Author
+### ✨ Author
 
 Esha Kewalramani
